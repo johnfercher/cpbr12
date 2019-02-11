@@ -10,6 +10,7 @@
 ### Igor Costa
 * [Linkedin](https://www.linkedin.com/in/igor-s-costa/)
 * [Github](https://github.com/igorscosta)
+* [Medium](https://medium.com/@igor_scosta)
 
 ### Johnathan Fercher
 * [Linkedin](https://www.linkedin.com/in/johnathan-fercher-da-rosa-79013491/)
