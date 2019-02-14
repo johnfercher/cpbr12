@@ -1,5 +1,7 @@
 # Faça muito mais com Data Science, C# e Rust
+
 ## Campus Party 12
+* [Palestra](presentation.pdf)
 
 ## Palestrantes:
 
