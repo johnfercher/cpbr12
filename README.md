@@ -14,6 +14,7 @@
 [![logo](https://cdn0.iconfinder.com/data/icons/typicons-2/24/social-github-circular-48.png)](https://github.com/igorscosta)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_facebook-48.png)](https://www.facebook.com/igorszcosta)
 [![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_medium-48.png)](https://medium.com/@igor_scosta)
+[![logo](https://cdn0.iconfinder.com/data/icons/social-23/100/social_twitter-48.png)](https://twitter.com/igor_scosta)
 
 
 ### Johnathan Fercher
